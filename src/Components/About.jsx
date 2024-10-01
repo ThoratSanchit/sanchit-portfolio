@@ -14,8 +14,9 @@ const About = ({bgcolor,darkmode}) => {
           <p className="my-4  lg:text-nowrap "
            style={{ color: `${bgcolor==="white" ? "#000000" : "#A6A6A6"}`}}
           >
-            I have Completed My <span className="font-bold">B.Tech Degree </span>From Ganga institute of technology and management  <br /> Engineering College, Kabalana.
-            My Specilization in <span className="font-bold">Software developement (CSE)</span>
+           I am currently pursuing a <span className="font-bold">BCA Degree</span> from Baap Company, in my 3rd year.<br /> 
+I also have <span className="font-bold">2.5 years of internship experience</span> at Baap Company.
+
              
             <br />{" "}
           </p>

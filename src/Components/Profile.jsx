@@ -190,7 +190,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                 background: `${bgcolor === "white" ? "#f3f6f6" : "#1D1D1D"}`,
               }}
             >
-              <a href="https://www.instagram.com/confident_coder/?next=%2F" target="#">
+              <a href="" target="#">
                 {" "}
                 <FaInstagram className="text-2xl text-red-400   fw-bold" />{" "}
               </a>
@@ -202,7 +202,7 @@ const Profile = ({ show, setShow, darkmode, bgcolor,setCross }) => {
                 background: `${bgcolor === "white" ? "#f3f6f6" : "#1D1D1D"}`,
               }}
             >
-              <a href="https://www.linkedin.com/in/anurag-singh-86998b28a/">
+              <a href="https://www.linkedin.com/in/sanchit-thorat-0169a4237/">
                 {" "}
                 <FaLinkedin className="text-2xl text-blue-600  fw-bold" />{" "}
               </a>
